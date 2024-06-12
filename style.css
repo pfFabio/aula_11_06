@@ -1,0 +1,10 @@
+.divi{
+    border: solid black 2px;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+.divi2{
+    background-color: blue;
+}
